@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rehman Mohammed, i'm a second year Computer Engineering student at McMaster
+- 👋 Hi, I’m Rehman Mohammed, i'm a second year Computer Engineering student at McMaster University
 - 👀 I’m interested in Web Development and Front end
 - 🌱 I’m currently learning HTML, CSS and Javascript
 - 💞️ I’m looking to collaborate on Front End related projects
