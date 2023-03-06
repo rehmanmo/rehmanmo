@@ -4,7 +4,7 @@
 
 ## 👋 About Me
 <div align="center">
-<img src="icon/Github%20Logo.png? raw=true" align="right" width=25% height=25% />
+
 </div> 
 
  - 🎓 I am a 2nd year Computer Engineering student at McMaster University
