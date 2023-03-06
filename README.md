@@ -20,7 +20,7 @@
 
 ## 🛠 Skills
 <div>  
- <img align="right" width=80% height=80% src="icon/Github%20Banner%20Tools.png?">
+
 </div>
 
 `IDE`
