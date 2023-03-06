@@ -2,10 +2,13 @@
   <h2>👋 About Me</h2>
 </div>
 
-- 🎓 I am a 2nd year Computer Engineering student at McMaster University
-- 📍 I am from Toronto, Ontario
-- 💻 I enjoy learning new coding skills and applying them in new ways
-- 🎮 Talk to me about Android & game development
+🎓 I am a 2nd year Computer Engineering student at McMaster University
+📍 I am from Toronto, Ontario
+💻 I enjoy learning new coding skills and applying them in new ways
+🎮 Talk to me about Android & game development
+🔬 I am passionate about machine learning and using data-driven approaches to solve complex problems
+🕵️‍♀️ I have experience in QA testing and ensuring software quality
+🎨 I enjoy front-end engineering and creating visually appealing and user-friendly websites
 
 <div align="center">
   <h2>🚀 I'm currently learning</h2>
