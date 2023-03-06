@@ -10,7 +10,6 @@
  - 🎓 I am a 2nd year Computer Engineering student at McMaster University
  - 📍I am from Toronto, Ontario
  - 💻 I enjoy learning new coding skills and applying them in new ways
- - 🎹 I just got into music production
  - 🎮 Talk to me about Android & game development
 
 ## 🚀 I’m currently learning
