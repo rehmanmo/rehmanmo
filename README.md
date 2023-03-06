@@ -1,13 +1,14 @@
 <div align="center">
   <h2>👋 About Me</h2>
 </div>
-🎓 I am a 2nd year Computer Engineering student at McMaster University
-📍 I am from Toronto, Ontario
-💻 I enjoy learning new coding skills and applying them in new ways
-🎮 Talk to me about Android & game development
-🔬 I am passionate about machine learning and using data-driven approaches to solve complex problems
-🕵️‍♀️ I have experience in QA testing and ensuring software quality
-🎨 I enjoy front-end engineering and creating visually appealing and user-friendly websites
+
+- 🎓 I am a 2nd year Computer Engineering student at McMaster University
+- 📍 I am from Toronto, Ontario
+- 💻 I enjoy learning new coding skills and applying them in new ways
+- 🎮 Talk to me about Android & game development
+- 🔬 Passionate about Machine Learning and QA Testing
+- 🌐 Front End Engineering enthusiast
+
 <div align="center">
   <h2>🚀 I'm currently learning</h2>
   <p>
@@ -16,6 +17,7 @@
     <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
   </p>
 </div>
+
 <div align="center">
   <h2>🛠 Skills</h2>
   <p>
@@ -30,4 +32,5 @@
     <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
     <img src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white" />
     <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Autodesk%20In
+    <img src="https://img.shields.io/badge/-Autodesk%20Inventor-0696D7?style=flat-square&logo=autodesk&logoColor=white" />
+    <img
