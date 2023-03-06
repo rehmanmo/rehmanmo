@@ -38,11 +38,6 @@
 - Python
 - C++
 
-`Libraries & Game engines`
-- Unity
-- Box2D
-- Processing
-
 `Hardware`
 - Raspberry Pi 4B
 - Arduino
@@ -59,11 +54,11 @@
  </div>
  
  <div>  
- <img align="center" width=100% height=100% src="icon/GitHub%20Banner%20Bottom.png?">
+
 </div>
 
 <!--
-**Raziz1/Raziz1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**RehmanMohammed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
