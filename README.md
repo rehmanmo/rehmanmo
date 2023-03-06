@@ -47,8 +47,6 @@
 - Blender
 - Photoshop
 
-## 📧 Contact Me 
-<div align="center">
  
  
  </div>
