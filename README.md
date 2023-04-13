@@ -7,7 +7,7 @@
 - 💻 I enjoy learning new coding skills and applying them in new ways
 - 🎮 Talk to me about Android & game development
 - 🔬 Passionate about Machine Learning and QA Testing
-- 🌐 Front End Engineering enthusiast
+- 🌐 Data Engineering enthusiast
 
 <div align="center">
   <h2>🚀 I'm currently learning</h2>
